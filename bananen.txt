@@ -1,2 +1,5 @@
 ik houd van bananen
 maar ik haat groene bananen
+
+green banana = mean banana
+
